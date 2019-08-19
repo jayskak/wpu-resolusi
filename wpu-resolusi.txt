@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Membuat sebuah website untuk guide para wisatawan
+- Belajar Android
+- Memperdalam laravel dan codeigniter
