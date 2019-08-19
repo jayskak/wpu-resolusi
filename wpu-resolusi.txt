@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Membuat sebuah website untuk guide para wisatawan
 - Belajar Android
 - Memperdalam laravel dan codeigniter
+- Pengen kerja di bukalapak T_T
